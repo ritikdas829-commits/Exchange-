@@ -1,0 +1,19 @@
+{
+    "sessions": {
+        "1549128732885909676": {
+            "owner_id": 1531341057894252679,
+            "have": "Crypto",
+            "want": "INR",
+            "pay_display": "$9.2",
+            "get_display": "\u20b91380",
+            "stage": "awaiting_admin_confirm",
+            "admin_id": 1531341057894252679,
+            "selected_kind": "LTC",
+            "selected_name": "zyro",
+            "selected_details": "ltc1qrzl9w9c9htydlhnukdnnqjnzfa5808u46fa076",
+            "selected_block": "**zyro \u2014 LTC**\n`ltc1qrzl9w9c9htydlhnukdnnqjnzfa5808u46fa076`",
+            "user_address": "ltc1qrzl9w9c9htydlhnukdnnqjnzfa5808u46fa076",
+            "user_app": "Trust Wallet"
+        }
+    }
+}
